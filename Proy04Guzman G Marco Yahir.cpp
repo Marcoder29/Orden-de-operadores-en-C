@@ -5,6 +5,7 @@
 float resultado1, resultado2, resultado3, resultado4;
 main ( )
 {
+	// Operadores
 	resultado1 = 9+3*16/(2*2*2)-5.0/2.0;
 	resultado2 = 9+3*16/pow(2,3)-5.0/2.0;
 	resultado3 = 6+2*(7-(4+2))-3*(10+(3*3)/6.0);
